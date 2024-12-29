@@ -50,6 +50,7 @@ body {
   box-shadow: 0 0 35px 5px hsla(0, 0%, 100%, 0.048);
   max-width: 90%;
   min-width: 300px;
+  flex-wrap: wrap;
 }
 
 .container h1 {
