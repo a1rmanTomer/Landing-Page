@@ -4,4 +4,4 @@ Had a design but didn't quite follow It.. well, It looks slick so idc.
 
 ## Preview
 
-![image](https://github.com/user-attachments/assets/eb3df99d-092c-4a08-a4b6-f7f14217f190)
+![image](https://github.com/user-attachments/assets/22cfb935-9f28-46dd-971a-f583597ad11b)
