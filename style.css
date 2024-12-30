@@ -30,7 +30,6 @@ body {
 }
 
 .big-wrapper {
-  bottom: 10%;
   position: relative;
   display: flex;
   justify-content: space-evenly;
@@ -49,8 +48,23 @@ body {
   align-items: center;
   box-shadow: 0 0 35px 5px hsla(0, 0%, 100%, 0.048);
   max-width: 90%;
-  min-width: 300px;
+  min-width: 10%;
   flex-wrap: wrap;
+}
+
+.left-info {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: hsla(0, 0%, 100%, 0.041);
+  border-radius: 1rem;
+  box-shadow: 0 0 35px 5px hsla(0, 0%, 0%, 0.274);
+  max-width: 90%;
+  min-width: 15%;
+  padding: 1.5rem 2rem;
+  color: rgb(232, 254, 255);
+  text-decoration: none;
 }
 
 .container h1 {
@@ -84,21 +98,6 @@ body {
   height: 100px;
   border-radius: 50%;
   box-shadow: 0 0 45px 5px hsla(0, 0%, 0%, 0.329);
-}
-
-.left-info {
-  position: relative;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  background-color: hsla(0, 0%, 100%, 0.041);
-  border-radius: 1rem;
-  box-shadow: 0 0 35px 5px hsla(0, 0%, 0%, 0.274);
-  max-width: 90%;
-  min-width: 300px;
-  padding: 1.5rem 2rem;
-  color: rgb(232, 254, 255);
-  text-decoration: none;
 }
 
 .left-info h1 {
