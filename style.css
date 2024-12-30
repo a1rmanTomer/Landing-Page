@@ -95,6 +95,7 @@ body {
 }
 
 .left-info img {
+  margin-top: 2rem;
   width: 100px;
   height: 100px;
   border-radius: 50%;
@@ -109,13 +110,21 @@ body {
   margin-top: -0.5rem;
 }
 
+.left-info h3 {
+  margin-top: -0.5rem;
+}
+
+.left-info h5 {
+  margin-top: 0.25rem;
+}
+
 .left-info ul {
   display: flex;
   flex-direction: row;
   font-size: 1.5rem;
   gap: 1rem;
   padding: 0;
-  margin: 1rem 0 0 0;
+  margin-top: 0.5rem;
 }
 
 .left-info ul a {
@@ -126,6 +135,7 @@ body {
 .left-info h6 {
   font-weight: 125;
   font-size: 0.85rem;
+  margin-top: -0.15rem;
 }
 
 .contact {
